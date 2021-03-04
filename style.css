@@ -6,10 +6,11 @@ COMMON
 
 body {
     font-family: "monospace",sans-serif;
+    background-color: azure;
 }
 
 .font-primary {
-    color:#00abae ;
+    color: #eb6b34;
 }
 
 .title-icon {
@@ -61,7 +62,7 @@ ABOUT
 
 #about .skills {
     font-size: 14px;
-    color: #00abae;
+    color: #eb6b34;
     margin-bottom: 10px;
 }
 
